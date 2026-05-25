@@ -9,3 +9,11 @@ A simple JavaScript app that tracks the number of passengers entering a location
 - Event handling
 - Functions
 - Updating UI dynamically with JavaScript
+
+ ### Blackjack Game
+A simple browser-based Blackjack game built with JavaScript. Built to practice:
+- Arrays and objects
+- Conditional logic
+- Random number generation
+- DOM manipulation
+- Game state management
