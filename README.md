@@ -17,3 +17,11 @@ A simple browser-based Blackjack game built with JavaScript. Built to practice:
 - Random number generation
 - DOM manipulation
 - Game state management
+
+ ### Chrome Lead Tracker Extension
+A simple Chrome extension built to save and manage useful links and browser tabs. Users can manually save links, store the current tab, and persist data using local storage. Built to practice:
+- Chrome Extension APIs
+- Local Storage
+- DOM manipulation
+- Event listeners
+- Dynamic rendering with JavaScript
