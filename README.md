@@ -25,3 +25,12 @@ A simple Chrome extension built to save and manage useful links and browser tabs
 - DOM manipulation
 - Event listeners
 - Dynamic rendering with JavaScript
+
+  ### Travel Journal (React)
+A travel journal web app built with React that displays travel entries with images, dates, descriptions, and Google Maps links. Built to practice:
+- React components
+- Props
+- Rendering lists with `.map()`
+- Importing assets in React
+- Dynamic UI rendering
+- Component-based project structure
